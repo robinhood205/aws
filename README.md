@@ -1,2 +1,2 @@
 # aws
-my test was project
+my test aws project
